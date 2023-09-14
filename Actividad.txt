@@ -1,0 +1,5 @@
+Hazme un archivo readme.md que contenga el siguiente texto:
+
+Estimado estudiante Unilibrista, después de ver la conceptualización de las Listas Simples, realice un menú de opciones donde permitas que un algoritmo capture datos desde el teclado y pueda realizar el menú sugerido por el docente. 
+
+Crear un menu en el que se muestren las siguientes opciones: 1. Verificar si la lista tiene datos 2. Ingresar un nuevo dato a la lista 3. Consultar un dato en la lista 4. Eliminar un dato de la lista 5. Mostrar por pantalla la lista ingresada
